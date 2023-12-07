@@ -1,5 +1,8 @@
-# Deploying .Net Microservices to Azure Kubernetes Services(AKS) and Automating with Azure DevOps
+# Deploying .Net Microservices into Azure Kubernetes Services(AKS) and CI/CD using Azure DevOps
 Deploying .Net Microservices into Kubernetes, and moving deployments to the cloud Azure Kubernetes Services (AKS) with using Azure Container Registry (ACR) and how to Automating Deployments with Azure DevOps and GitHub.
+
+Gmail - abhishekpatnaik000@gmail.com
+LinkedIn - https://www.linkedin.com/in/abhishek-patnaik-24a4b7155/
 
 | Image | Status |
 | ------------- | ------------- |
